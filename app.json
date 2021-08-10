@@ -9,9 +9,6 @@
   "addons": [
     {
       "plan": "heroku-postgresql"
-    },
-    {
-      "plan": "papertrail:choklad"
     }
   ],
   "success_url": "/login",
