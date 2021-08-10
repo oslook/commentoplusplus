@@ -3,7 +3,7 @@
 ### 💬 Try it out and deploy your own
 [LIVE DEMO](https://demo.souradip.com/chat.html)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/souramoo/commentoplusplus)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/oslook/commentoplusplus)
 
 ### ❓ About
 Commento++ is a free, open source, fast & lightweight comments box that you can embed in your static website instead of Disqus.
